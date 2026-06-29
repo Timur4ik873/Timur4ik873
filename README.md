@@ -4,15 +4,12 @@
 
 ## 🛠️ Технологический стек
 
-### Языки программирования и бэкенд
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
-
-### Инструменты и технологии
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
-
-* **Работа с данными:** Работаю с библиотеками экосистемы Python для анализа данных, автоматизации и парсинга.
-
-* **Работа с данными:** Работаю с библиотеками экосистемы Python для анализа данных, автоматизации и парсинга.
+| Категория | Технологии и инструменты |
+| :--- | :--- |
+| **Языки** | C# • Python • JavaScript |
+| **Бэкенд** | .NET (ASP.NET Core) • Node.js |
+| **Данные** | Автоматизация, парсинг сайтов и анализ данных в экосистеме Python |
+| **Среда** | Git • GitHub • Visual Studio • VS Code |
 
 ## 💻 Мой подход к работе
 
