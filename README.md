@@ -4,10 +4,20 @@
 
 ## 🛠️ Технологический стек
 
-* **Языки программирования:** C#, Python, JavaScript
-* **Веб & Бэкенд:** .NET (ASP.NET Core), Node.js
-* **Работа с данными:** Работаю с библиотеками экосистемы Python для анализа данных, автоматизации и парсинга
-* **Инструменты:** Git, GitHub, VS Code, Visual Studio
+### Языки программирования и бэкенд
+![C#](https://shields.io)
+![Python](https://shields.io)
+![JavaScript](https://shields.io)
+![.NET](https://shields.io)
+![NodeJS](https://shields.io)
+
+### Инструменты и технологии
+![Git](https://shields.io)
+![GitHub](https://shields.io)
+![Visual Studio](https://shields.io)
+![VS Code](https://shields.io)
+
+* **Работа с данными:** Работаю с библиотеками экосистемы Python для анализа данных, автоматизации и парсинга.
 
 ## 💻 Мой подход к работе
 
